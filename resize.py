@@ -17,6 +17,7 @@ hide_streamlit_cloud_elements = """
 """
 st.markdown(hide_streamlit_cloud_elements, unsafe_allow_html=True)
 
+
 st.header("Welcome to Image Resizer")
 st.title("Photo Resizer App Using OpenCV")
 
