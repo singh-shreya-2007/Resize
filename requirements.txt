@@ -1,4 +1,2 @@
 Streamlit
 opencv-python
-numpy
-Pillow
